@@ -71,10 +71,10 @@ Here are some screenshots showcasing key features of the application:
 ### Login Page
 ![Login Page](Screenshots/Image-2.png)
 
-### File Upload
+### Sign Up
 ![Sign Up](Screenshots/Image-3.png)
 
-### Profile Management
+### Main Page
 ![Main Page](Screenshots/Image1.png)
 
 
