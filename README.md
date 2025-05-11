@@ -81,6 +81,7 @@ Here are some screenshots showcasing key features of the application:
 ---
 
 ## Credits
+
 This project is built upon the foundational work of [smahesh29](https://github.com/smahesh29/Django-WebApp). I have extended and customized it to include additional features and improvements.
 ---
 
